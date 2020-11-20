@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "sfW/V9oF6U5Lzb/WcFPssX+vhZkQgPccjEO1zlCfZQ1EegGd/XFNL2dpAMYh+GSuF/6c52FpDkjIo12GTCIEwQ==",
+  "dgSpecHash": "gCbwpDfbqcNSJY11+cZ9mMp5nJZC5d3INn38poUUS6K4jgcieCLWmgIMrDwTbVekYrGNCmS8xk0jSEbV9rvWsQ==",
   "success": true,
-  "projectFilePath": "/home/king/code/EasyDI/EasyDI/EasyDI.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/alialp/code/EasyDI/EasyDI/EasyDI.csproj",
+  "expectedPackageFiles": [
+    "/Users/alialp/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/5.0.0/microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "/Users/alialp/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.8/microsoft.aspnetcore.app.ref.3.1.8.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -2,6 +2,20 @@
 
     <PropertyGroup>
         <TargetFramework>netcoreapp3.1</TargetFramework>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <Title>Easily register the DI services with annotation  </Title>
+        <Authors>Ali Alp</Authors>
+        <Description>With this Nuget package you can easily mark your service interfaces with ServiceScope anotation and this package will automatically register them on startup</Description>
+        <Copyright>NULL</Copyright>
+        <PackageProjectUrl>https://github.com/alicommit-malp/EasyDI</PackageProjectUrl>
+        <PackageLicenseUrl>https://raw.githubusercontent.com/alicommit-malp/EasyDI/main/LICENSE</PackageLicenseUrl>
+        <RepositoryUrl>https://github.com/alicommit-malp/EasyDI</RepositoryUrl>
+        <RepositoryType>GIT</RepositoryType>
+        <PackageTags>DI, Dependency Injection, Dynamic, Annotation</PackageTags>
     </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="5.0.0" />
+    </ItemGroup>
 
 </Project>
