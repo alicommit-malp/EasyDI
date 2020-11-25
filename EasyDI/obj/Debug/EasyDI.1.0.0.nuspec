@@ -5,6 +5,7 @@
     <version>1.0.0</version>
     <title>Easily register the DI services with annotation</title>
     <authors>Ali Alp</authors>
+    <owners>Ali Alp</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <licenseUrl>https://raw.githubusercontent.com/alicommit-malp/EasyDI/main/LICENSE</licenseUrl>
     <projectUrl>https://github.com/alicommit-malp/EasyDI</projectUrl>
@@ -19,6 +20,6 @@
     </dependencies>
   </metadata>
   <files>
-    <file src="/Users/alialp/code/EasyDI/EasyDI/bin/Debug/netcoreapp3.1/EasyDI.dll" target="lib/netcoreapp3.1/EasyDI.dll" />
+    <file src="/home/king/code/EasyDI/EasyDI/bin/Debug/netcoreapp3.1/EasyDI.dll" target="lib/netcoreapp3.1/EasyDI.dll" />
   </files>
 </package>

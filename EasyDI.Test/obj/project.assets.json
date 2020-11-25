@@ -1,7 +1,7 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {
+    ".NETCoreApp,Version=v3.1": {
       "Microsoft.Extensions.DependencyInjection.Abstractions/5.0.0": {
         "type": "package",
         "compile": {
@@ -54,41 +54,36 @@
     }
   },
   "projectFileDependencyGroups": {
-    "net5.0": [
+    ".NETCoreApp,Version=v3.1": [
       "EasyDI >= 1.0.0"
     ]
   },
   "packageFolders": {
-    "/Users/alialp/.nuget/packages/": {},
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "/home/king/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/alialp/code/EasyDI/EasyDI.Test/EasyDI.Test.csproj",
+      "projectUniqueName": "/home/king/code/EasyDI/EasyDI.Test/EasyDI.Test.csproj",
       "projectName": "EasyDI.Test",
-      "projectPath": "/Users/alialp/code/EasyDI/EasyDI.Test/EasyDI.Test.csproj",
-      "packagesPath": "/Users/alialp/.nuget/packages/",
-      "outputPath": "/Users/alialp/code/EasyDI/EasyDI.Test/obj/",
+      "projectPath": "/home/king/code/EasyDI/EasyDI.Test/EasyDI.Test.csproj",
+      "packagesPath": "/home/king/.nuget/packages/",
+      "outputPath": "/home/king/code/EasyDI/EasyDI.Test/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "/Users/alialp/.nuget/NuGet/NuGet.Config"
+        "/home/king/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
-        "net5.0"
+        "netcoreapp3.1"
       ],
       "sources": {
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "netcoreapp3.1": {
           "projectReferences": {
-            "/Users/alialp/code/EasyDI/EasyDI/EasyDI.csproj": {
-              "projectPath": "/Users/alialp/code/EasyDI/EasyDI/EasyDI.csproj"
+            "/home/king/code/EasyDI/EasyDI/EasyDI.csproj": {
+              "projectPath": "/home/king/code/EasyDI/EasyDI/EasyDI.csproj"
             }
           }
         }
@@ -100,8 +95,7 @@
       }
     },
     "frameworks": {
-      "net5.0": {
-        "targetAlias": "net5.0",
+      "netcoreapp3.1": {
         "imports": [
           "net461",
           "net462",
@@ -120,7 +114,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.100/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/home/king/.dotnet/sdk/3.1.201/RuntimeIdentifierGraph.json"
       }
     }
   }

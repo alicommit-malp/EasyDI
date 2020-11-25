@@ -7,3 +7,12 @@
 /Users/alialp/code/EasyDI/EasyDI/obj/Debug/netcoreapp3.1/EasyDI.csproj.CoreCompileInputs.cache
 /Users/alialp/code/EasyDI/EasyDI/obj/Debug/netcoreapp3.1/EasyDI.dll
 /Users/alialp/code/EasyDI/EasyDI/obj/Debug/netcoreapp3.1/EasyDI.pdb
+/home/king/code/EasyDI/EasyDI/bin/Debug/netcoreapp3.1/EasyDI.deps.json
+/home/king/code/EasyDI/EasyDI/bin/Debug/netcoreapp3.1/EasyDI.dll
+/home/king/code/EasyDI/EasyDI/bin/Debug/netcoreapp3.1/EasyDI.pdb
+/home/king/code/EasyDI/EasyDI/obj/Debug/netcoreapp3.1/EasyDI.csprojAssemblyReference.cache
+/home/king/code/EasyDI/EasyDI/obj/Debug/netcoreapp3.1/EasyDI.csproj.CoreCompileInputs.cache
+/home/king/code/EasyDI/EasyDI/obj/Debug/netcoreapp3.1/EasyDI.AssemblyInfoInputs.cache
+/home/king/code/EasyDI/EasyDI/obj/Debug/netcoreapp3.1/EasyDI.AssemblyInfo.cs
+/home/king/code/EasyDI/EasyDI/obj/Debug/netcoreapp3.1/EasyDI.dll
+/home/king/code/EasyDI/EasyDI/obj/Debug/netcoreapp3.1/EasyDI.pdb

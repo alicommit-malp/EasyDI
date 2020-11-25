@@ -1,25 +1,22 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/Users/alialp/code/EasyDI/EasyDI.Test/EasyDI.Test.csproj",
+    "projectUniqueName": "/home/king/code/EasyDI/EasyDI.Test/EasyDI.Test.csproj",
     "projectName": "EasyDI.Test",
-    "projectPath": "/Users/alialp/code/EasyDI/EasyDI.Test/EasyDI.Test.csproj",
-    "outputPath": "/Users/alialp/code/EasyDI/EasyDI.Test/obj/",
+    "projectPath": "/home/king/code/EasyDI/EasyDI.Test/EasyDI.Test.csproj",
+    "outputPath": "/home/king/code/EasyDI/EasyDI.Test/obj/",
     "projectStyle": "PackageReference",
-    "fallbackFolders": [
-      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
-    ],
     "originalTargetFrameworks": [
-      "net50"
+      "netcoreapp3.1"
     ],
     "sources": {
       "https://api.nuget.org/v3/index.json": {}
     },
     "frameworks": {
-      "netcoreapp5.0": {
+      "netcoreapp3.1": {
         "projectReferences": {
-          "/Users/alialp/code/EasyDI/EasyDI/EasyDI.csproj": {
-            "projectPath": "/Users/alialp/code/EasyDI/EasyDI/EasyDI.csproj"
+          "/home/king/code/EasyDI/EasyDI/EasyDI.csproj": {
+            "projectPath": "/home/king/code/EasyDI/EasyDI/EasyDI.csproj"
           }
         }
       }
@@ -31,7 +28,7 @@
     }
   },
   "frameworks": {
-    "netcoreapp5.0": {
+    "netcoreapp3.1": {
       "imports": [
         "net461",
         "net462",
@@ -50,7 +47,7 @@
           "privateAssets": "all"
         }
       },
-      "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.100/RuntimeIdentifierGraph.json"
+      "runtimeIdentifierGraphPath": "/home/king/.dotnet/sdk/3.1.201/RuntimeIdentifierGraph.json"
     }
   }
 }

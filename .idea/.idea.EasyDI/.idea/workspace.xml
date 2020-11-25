@@ -24,72 +24,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6f6f23e5-347a-4a68-bc38-ad68c73536e9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/EasyDI.Test/Contracts/IServiceA.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EasyDI.Test/Contracts/IServiceB.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EasyDI.Test/Contracts/IServiceC.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EasyDI.Test/Controllers/Test.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EasyDI.Test/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EasyDI.Test/Properties/launchSettings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EasyDI.Test/Services/ServiceA.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EasyDI.Test/Services/ServiceB.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EasyDI.Test/Services/ServiceC.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EasyDI.Test/Startup.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EasyDI.Test/TestController.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EasyDI.Test/appsettings.Development.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EasyDI.Test/appsettings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EasyDI.Test/bin/Debug/net5.0/EasyDI.Test.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EasyDI.Test/bin/Debug/net5.0/EasyDI.Test.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EasyDI.Test/bin/Debug/net5.0/EasyDI.Test.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EasyDI.Test/bin/Debug/net5.0/EasyDI.Test.runtimeconfig.dev.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EasyDI.Test/bin/Debug/net5.0/EasyDI.Test.runtimeconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EasyDI.Test/bin/Debug/net5.0/EasyDI.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EasyDI.Test/bin/Debug/net5.0/EasyDI.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EasyDI.Test/bin/Debug/net5.0/appsettings.Development.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EasyDI.Test/bin/Debug/net5.0/appsettings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EasyDI.Test/bin/Debug/net5.0/ref/EasyDI.Test.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EasyDI.Test/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EasyDI.Test/obj/Debug/net5.0/EasyDI.Test.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EasyDI.Test/obj/Debug/net5.0/EasyDI.Test.MvcApplicationPartsAssemblyInfo.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EasyDI.Test/obj/Debug/net5.0/EasyDI.Test.RazorTargetAssemblyInfo.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EasyDI.Test/obj/Debug/net5.0/EasyDI.Test.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EasyDI.Test/obj/Debug/net5.0/EasyDI.Test.csproj.CopyComplete" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EasyDI.Test/obj/Debug/net5.0/EasyDI.Test.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EasyDI.Test/obj/Debug/net5.0/EasyDI.Test.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EasyDI.Test/obj/Debug/net5.0/EasyDI.Test.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EasyDI.Test/obj/Debug/net5.0/EasyDI.Test.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EasyDI.Test/obj/Debug/net5.0/EasyDI.Test.genruntimeconfig.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EasyDI.Test/obj/Debug/net5.0/EasyDI.Test.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EasyDI.Test/obj/Debug/net5.0/staticwebassets/EasyDI.Test.StaticWebAssets.Manifest.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EasyDI.Test/obj/Debug/net5.0/staticwebassets/EasyDI.Test.StaticWebAssets.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EasyDI.sln.DotSettings.user" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EasyDI/Attributes/InjectThisServiceAs.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EasyDI/Extension/ServiceCollectionExtension.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EasyDI/bin/Debug/EasyDI.1.0.0.nupkg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EasyDI/bin/Debug/netcoreapp3.1/EasyDI.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EasyDI/bin/Debug/netcoreapp3.1/EasyDI.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EasyDI/bin/Debug/netcoreapp3.1/EasyDI.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EasyDI/obj/Debug/EasyDI.1.0.0.nuspec" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EasyDI/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EasyDI/obj/Debug/netcoreapp3.1/EasyDI.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EasyDI/obj/Debug/netcoreapp3.1/EasyDI.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EasyDI/obj/Debug/netcoreapp3.1/EasyDI.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EasyDI/obj/Debug/netcoreapp3.1/EasyDI.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.EasyDI/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.EasyDI/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EasyDI.Test/EasyDI.Test.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/EasyDI.Test/EasyDI.Test.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EasyDI.Test/UnitTest1.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/EasyDI.Test/obj/Debug/netcoreapp3.1/EasyDI.Test.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/EasyDI.Test/obj/Debug/net5.0/EasyDI.Test.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EasyDI.Test/obj/Debug/netcoreapp3.1/EasyDI.Test.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/EasyDI.Test/obj/Debug/net5.0/EasyDI.Test.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EasyDI.Test/obj/Debug/netcoreapp3.1/EasyDI.Test.assets.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/EasyDI.Test/obj/Debug/netcoreapp3.1/EasyDI.Test.csprojAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EasyDI.Test/obj/Debug/net5.0/EasyDI.Test.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/EasyDI.Test/obj/Debug/net5.0/EasyDI.Test.assets.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/EasyDI.Test/obj/EasyDI.Test.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/EasyDI.Test/obj/EasyDI.Test.csproj.nuget.dgspec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/EasyDI.Test/obj/EasyDI.Test.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/EasyDI.Test/obj/EasyDI.Test.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EasyDI.Test/obj/EasyDI.Test.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/EasyDI.Test/obj/EasyDI.Test.csproj.nuget.g.targets" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/EasyDI.Test/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/EasyDI.Test/obj/project.assets.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/EasyDI.Test/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/EasyDI.Test/obj/project.nuget.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/EasyDI.Test/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/EasyDI.Test/obj/project.packagespec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/EasyDI.Test/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/EasyDI.Test/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EasyDI.sln" beforeDir="false" afterPath="$PROJECT_DIR$/EasyDI.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EasyDI/EasyDI.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/EasyDI/EasyDI.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/EasyDI/obj/Debug/netcoreapp3.1/EasyDI.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/EasyDI/obj/Debug/netcoreapp3.1/EasyDI.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/EasyDI/obj/Debug/netcoreapp3.1/EasyDI.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/EasyDI/obj/Debug/netcoreapp3.1/EasyDI.AssemblyInfoInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/EasyDI/obj/Debug/netcoreapp3.1/EasyDI.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/EasyDI/obj/Debug/netcoreapp3.1/EasyDI.assets.cache" afterDir="false" />
@@ -206,7 +148,7 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -218,6 +160,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
