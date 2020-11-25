@@ -1,4 +1,6 @@
 using EasyDI.Extension;
+using EasyDI.Test.Contracts;
+using EasyDI.Test.Services;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.DependencyInjection;
@@ -10,7 +12,8 @@ namespace EasyDI.Test
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
-            services.AddAnnotatedServices(typeof(Startup));
+            // services.AddAnnotatedServices(typeof(Startup));
+            
         }
 
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
