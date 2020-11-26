@@ -14,9 +14,9 @@ namespace EasyDI.Test.Services
             _serviceB = serviceB;
         }
 
-        public string Get()
+        public string Do()
         {
-            return $"{_serviceA.Get()}{_serviceB.Get()}";
+            return $"{_serviceA.Do()}{_serviceB.Do()}";
         }
     }
 }

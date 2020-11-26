@@ -6,6 +6,6 @@ namespace EasyDI.Test.Contracts
     [InjectThisServiceAs(ServiceLifetime.Transient)]
     public interface IServiceA
     {
-        string Get();
+        string Do();
     }
 }

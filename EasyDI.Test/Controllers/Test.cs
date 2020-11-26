@@ -23,9 +23,9 @@ namespace EasyDI.Test.Controllers
         {
             return Ok(new
             {
-                _serviceA=_serviceA.Get(),
-                _serviceB=_serviceB.Get(),
-                _serviceC=_serviceC.Get()
+                _serviceA=_serviceA.Do(),
+                _serviceB=_serviceB.Do(),
+                _serviceC=_serviceC.Do()
             });
         }
     }

@@ -4,7 +4,7 @@ namespace EasyDI.Test.Services
 {
     public class ServiceB : IServiceB
     {
-        public string Get()
+        public string Do()
         {
             return "B";
         }
