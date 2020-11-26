@@ -79,7 +79,7 @@ public class Startup
 }
 ```
 
-#### 2. To solve the service registry hell issue 
+### 2. To solve the service registry hell issue 
 After your application begin to grow, you will need to add more and more services to your application to take care of the new functionalities. However, as you add more services to the application you need to register them in DI as well somewhere in the Startup.cs or an extension class. No matter how clean you try to be in terms of the folder structure and naming, after a while you end up having a class with hundreds of line like this 
 
 ```c#
