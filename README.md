@@ -10,7 +10,7 @@ public interface IServiceA
 ```
 well you can :) 
 
-Install [**EasyDI**]() package  
+Install [**EasyDI**](https://www.nuget.org/packages/EasyDI) package  
 ```bash
 dotnet add package EasyDI
 ```
@@ -24,7 +24,7 @@ and you are good to go. In every service interface by using the **InjectThisServ
 
 >checkout the source code [**here**](https://github.com/alicommit-malp/EasyDI)
 
->install the Nuget package from [**here**]()
+>install the Nuget package from [**here**](https://www.nuget.org/packages/EasyDI)
 
 ## Why EasyDI ?
 ### 1. To solve the forgotten service in DI registry
@@ -102,4 +102,4 @@ by using the EasyDI, you distribute this registration to each interface of your 
 
 >checkout the source code [**here**](https://github.com/alicommit-malp/EasyDI)
 
->install the Nuget package from [**here**]()
+>install the Nuget package from [**here**](https://www.nuget.org/packages/EasyDI)
